@@ -1,0 +1,7 @@
+{
+  "name": "IonicPrint",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
